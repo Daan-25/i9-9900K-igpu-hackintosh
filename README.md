@@ -1,5 +1,7 @@
 This is an EFI file for systems with a i9-9900K using IGPU.
 
+Black screen glitch is fixed!
+
 Hardware acceleration is working!
 
 Add your own macOS boot files.
