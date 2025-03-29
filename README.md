@@ -1,4 +1,4 @@
-This is an EFI file for systems with a i9-9900K using IGPU.
+This is an EFI file for systems with a i9-9900K using IGPU. (Made for macOS Sequoia)
 
 Black screen glitch is fixed!
 
